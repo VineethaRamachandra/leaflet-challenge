@@ -9,4 +9,6 @@
    1. config.js - This contains the API key for Mapbox   (Please note, for security reasons, I have deleted the API key).
    2. logic.js - The main javascript file which contains actual solution for the Module-15 leaflet challenge
 - A css subfolder which contains style.css file.
+ - An Image subfolder which contains all the image files that were downloaded as part of the project files
+- Earthquake map.jpg and Earthquake map2.jpg - Screenshots of final output.
  
